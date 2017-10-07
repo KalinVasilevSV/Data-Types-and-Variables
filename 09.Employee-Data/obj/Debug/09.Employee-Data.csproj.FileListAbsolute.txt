@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\09.Employee-Data\bin\Debug\09.Employee-Data.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\09.Employee-Data\bin\Debug\09.Employee-Data.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\09.Employee-Data\bin\Debug\09.Employee-Data.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\09.Employee-Data\obj\Debug\09.Employee-Data.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\09.Employee-Data\obj\Debug\09.Employee-Data.pdb

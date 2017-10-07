@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\13.Rectangle-Properties\bin\Debug\13.Rectangle-Properties.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\13.Rectangle-Properties\bin\Debug\13.Rectangle-Properties.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\13.Rectangle-Properties\bin\Debug\13.Rectangle-Properties.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\13.Rectangle-Properties\obj\Debug\13.Rectangle-Properties.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\13.Rectangle-Properties\obj\Debug\13.Rectangle-Properties.pdb

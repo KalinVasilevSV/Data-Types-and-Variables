@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\05.Variable-in-Hexadecimal-Format\bin\Debug\05.Variable-in-Hexadecimal-Format.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\05.Variable-in-Hexadecimal-Format\bin\Debug\05.Variable-in-Hexadecimal-Format.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\05.Variable-in-Hexadecimal-Format\bin\Debug\05.Variable-in-Hexadecimal-Format.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\05.Variable-in-Hexadecimal-Format\obj\Debug\05.Variable-in-Hexadecimal-Format.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\05.Variable-in-Hexadecimal-Format\obj\Debug\05.Variable-in-Hexadecimal-Format.pdb

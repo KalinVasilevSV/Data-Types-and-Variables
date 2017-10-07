@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Special-Numbers\bin\Debug\Lab-Refactor-Special-Numbers.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Special-Numbers\bin\Debug\Lab-Refactor-Special-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Special-Numbers\bin\Debug\Lab-Refactor-Special-Numbers.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Special-Numbers\obj\Debug\Lab-Refactor-Special-Numbers.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Special-Numbers\obj\Debug\Lab-Refactor-Special-Numbers.pdb

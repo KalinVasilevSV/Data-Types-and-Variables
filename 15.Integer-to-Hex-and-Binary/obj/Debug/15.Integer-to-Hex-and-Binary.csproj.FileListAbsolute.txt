@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\15.Integer-to-Hex-and-Binary\bin\Debug\15.Integer-to-Hex-and-Binary.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\15.Integer-to-Hex-and-Binary\bin\Debug\15.Integer-to-Hex-and-Binary.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\15.Integer-to-Hex-and-Binary\bin\Debug\15.Integer-to-Hex-and-Binary.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\15.Integer-to-Hex-and-Binary\obj\Debug\15.Integer-to-Hex-and-Binary.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\15.Integer-to-Hex-and-Binary\obj\Debug\15.Integer-to-Hex-and-Binary.pdb

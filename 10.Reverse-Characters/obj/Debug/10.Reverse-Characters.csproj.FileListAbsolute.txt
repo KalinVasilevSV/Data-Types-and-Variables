@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\10.Reverse-Characters\bin\Debug\10.Reverse-Characters.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\10.Reverse-Characters\bin\Debug\10.Reverse-Characters.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\10.Reverse-Characters\bin\Debug\10.Reverse-Characters.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\10.Reverse-Characters\obj\Debug\10.Reverse-Characters.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\10.Reverse-Characters\obj\Debug\10.Reverse-Characters.pdb

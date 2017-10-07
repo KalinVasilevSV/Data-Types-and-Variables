@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\08.Exchange-Variable-Values\bin\Debug\08.Exchange-Variable-Values.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\08.Exchange-Variable-Values\bin\Debug\08.Exchange-Variable-Values.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\08.Exchange-Variable-Values\bin\Debug\08.Exchange-Variable-Values.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\08.Exchange-Variable-Values\obj\Debug\08.Exchange-Variable-Values.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\08.Exchange-Variable-Values\obj\Debug\08.Exchange-Variable-Values.pdb

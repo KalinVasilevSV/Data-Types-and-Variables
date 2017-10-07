@@ -1,0 +1,5 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\14.Vowel-or-Digit\bin\Debug\14.Vowel-or-Digit.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\14.Vowel-or-Digit\bin\Debug\14.Vowel-or-Digit.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\14.Vowel-or-Digit\bin\Debug\14.Vowel-or-Digit.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\14.Vowel-or-Digit\obj\Debug\14.Vowel-or-Digit.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\14.Vowel-or-Digit\obj\Debug\14.Vowel-or-Digit.pdb

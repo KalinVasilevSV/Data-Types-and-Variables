@@ -1,0 +1,6 @@
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Volume-of-Pyramid\bin\Debug\Lab-Refactor-Volume-of-Pyramid.exe.config
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Volume-of-Pyramid\bin\Debug\Lab-Refactor-Volume-of-Pyramid.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Volume-of-Pyramid\bin\Debug\Lab-Refactor-Volume-of-Pyramid.pdb
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Volume-of-Pyramid\obj\Debug\Lab-Refactor-Volume-of-Pyramid.csprojResolveAssemblyReference.cache
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Volume-of-Pyramid\obj\Debug\Lab-Refactor-Volume-of-Pyramid.exe
+C:\Users\kalin\documents\visual studio 2017\Projects\04.Data-Types-and-Variables\Lab-Refactor-Volume-of-Pyramid\obj\Debug\Lab-Refactor-Volume-of-Pyramid.pdb
