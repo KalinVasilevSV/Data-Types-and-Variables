@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26430.6
+VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab-Refactor-Volume-of-Pyramid", "Lab-Refactor-Volume-of-Pyramid\Lab-Refactor-Volume-of-Pyramid.csproj", "{D28C0605-6F7A-4DF2-B61E-50654CC6DF27}"
 EndProject
@@ -36,6 +36,14 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15.Integer-to-Hex-and-Binary", "15.Integer-to-Hex-and-Binary\15.Integer-to-Hex-and-Binary.csproj", "{C9CEC115-C1D5-4B71-B3E0-9A642E4DFD78}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.Fast-Prime-Checker", "16.Fast-Prime-Checker\16.Fast-Prime-Checker.csproj", "{82812E39-4741-4297-BBC3-F72F1993A65D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17.Comparing-Floats", "17.Comparing-Floats\17.Comparing-Floats.csproj", "{E6536029-236F-4D8D-BC08-AEC7F678C3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.Print-Part-of-ASCII-Table", "17.Print-Part-of-ASCII-Table\18.Print-Part-of-ASCII-Table.csproj", "{89CD88EA-D604-406F-A4CE-6D989364B250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.Different-Integers-Size", "19.Different-Integers-Size\19.Different-Integers-Size.csproj", "{897C8C38-B263-4607-BA3B-4BB032641F30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20.Thea-the-Photographer", "20.Thea-the-Photographer\20.Thea-the-Photographer.csproj", "{BCB5BFB2-E0CB-4C0E-9CFA-D0A3208F8E31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,8 +119,27 @@ Global
 		{82812E39-4741-4297-BBC3-F72F1993A65D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82812E39-4741-4297-BBC3-F72F1993A65D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82812E39-4741-4297-BBC3-F72F1993A65D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6536029-236F-4D8D-BC08-AEC7F678C3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6536029-236F-4D8D-BC08-AEC7F678C3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6536029-236F-4D8D-BC08-AEC7F678C3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6536029-236F-4D8D-BC08-AEC7F678C3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89CD88EA-D604-406F-A4CE-6D989364B250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89CD88EA-D604-406F-A4CE-6D989364B250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89CD88EA-D604-406F-A4CE-6D989364B250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89CD88EA-D604-406F-A4CE-6D989364B250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{897C8C38-B263-4607-BA3B-4BB032641F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{897C8C38-B263-4607-BA3B-4BB032641F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{897C8C38-B263-4607-BA3B-4BB032641F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{897C8C38-B263-4607-BA3B-4BB032641F30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB5BFB2-E0CB-4C0E-9CFA-D0A3208F8E31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB5BFB2-E0CB-4C0E-9CFA-D0A3208F8E31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB5BFB2-E0CB-4C0E-9CFA-D0A3208F8E31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB5BFB2-E0CB-4C0E-9CFA-D0A3208F8E31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73797260-6D10-4208-8172-4922BCE74F1B}
 	EndGlobalSection
 EndGlobal
